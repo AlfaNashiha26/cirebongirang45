@@ -10,9 +10,3 @@
 
 </div>
 
-<br />
-
-### Demo Screeshots
-
-![Cirebon Girang Demo](../images/web.png "Desktop Demo")
-
